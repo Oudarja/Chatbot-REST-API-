@@ -46,6 +46,18 @@ DUMMYJSON_URL=https://dummyjson.com/products
 ```
 uvicorn app.main:app --reload
 ```
+### Image
+- Fetch all products
+  
+  <img width="1240" height="867" alt="image" src="https://github.com/user-attachments/assets/9e4c1c96-8068-4c7c-a713-1548b604056f" />
+  
+- LLM Response on user message
+  
+  <img width="1197" height="818" alt="image" src="https://github.com/user-attachments/assets/04bbf924-2c26-40a9-b930-0a8c20e18236" />
+  
+  <img width="1168" height="825" alt="image" src="https://github.com/user-attachments/assets/b336e3c7-26d9-48eb-b0c1-c7d9fdfece4b" />
+
+
 
 
 
