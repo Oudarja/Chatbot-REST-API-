@@ -24,7 +24,9 @@ cd Chatbot-REST-API
 
 ```
 ### Create Virtual env
+#### python version:3.9
 ```
+
 python -m venv .venv
 source .venv/bin/activate    # Linux / Mac
 .venv\Scripts\activate       # Windows
